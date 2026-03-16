@@ -1,0 +1,44 @@
+aid: janssen
+name: Janssen Project
+description: >-
+  The Janssen Project is a Linux Foundation project providing a cloud-native identity and access management platform. It features Auth Server for OAuth and OpenID Connect, Agama low-code identity orchestration, and the Cedarling policy decision point, recognized as a Digital Public Good.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Identity
+  - Access Management
+  - OAuth
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/janssen/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: janssen:janssen-api
+    name: Janssen Project API
+    description: >-
+      Programmatic access to Janssen identity management APIs, OAuth/OIDC authorization server, and policy decision tools.
+    humanURL: https://docs.jans.io/
+    tags:
+  - Identity
+  - Access Management
+  - OAuth
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://docs.jans.io/
+common:
+  - type: Documentation
+    name: Janssen Project Documentation
+    description: Official documentation for Janssen Project.
+    url: https://docs.jans.io/
+  - type: GitHubOrg
+    name: Janssen Project GitHub
+    description: Source code and repositories for Janssen Project.
+    url: https://github.com/JanssenProject
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
