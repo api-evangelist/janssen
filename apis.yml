@@ -23,10 +23,10 @@ apis:
       Programmatic access to Janssen identity management APIs, OAuth/OIDC authorization server, and policy decision tools.
     humanURL: https://docs.jans.io/
     tags:
-  - Identity
-  - Access Management
-  - OAuth
-  - Linux Foundation
+      - Identity
+      - Access Management
+      - OAuth
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://docs.jans.io/
