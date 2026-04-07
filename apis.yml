@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Identity
   - Access Management
-  - OAuth
+  - Identity
   - Linux Foundation
+  - OAuth
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,10 +23,10 @@ apis:
       Programmatic access to Janssen identity management APIs, OAuth/OIDC authorization server, and policy decision tools.
     humanURL: https://docs.jans.io/
     tags:
-      - Identity
       - Access Management
-      - OAuth
+      - Identity
       - Linux Foundation
+      - OAuth
     properties:
       - type: Documentation
         url: https://docs.jans.io/
