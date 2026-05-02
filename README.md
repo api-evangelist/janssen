@@ -1,5 +1,5 @@
-# Janssen Project (janssen)
-The Janssen Project is a Linux Foundation project providing a cloud-native identity and access management platform. It features Auth Server for OAuth and OpenID Connect, Agama low-code identity orchestration, and the Cedarling policy decision point, recognized as a Digital Public Good.
+# Janssen Pharmaceuticals (janssen)
+Janssen Pharmaceuticals was a Belgian pharmaceutical company founded in 1953 by Paul Janssen and acquired by Johnson & Johnson in 1961. The company specialized in psychiatry, neurology, oncology, immunology, and infectious disease medicines, developing approximately 70 new active pharmaceutical substances over its history. In 2024 the Janssen brand was retired and the pharmaceutical operations were rebranded as Johnson & Johnson Innovative Medicine. As such, Janssen no longer operates as a standalone brand and does not maintain its own public APIs.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/janssen/refs/heads/main/apis.yml)
 
@@ -9,29 +9,20 @@ The Janssen Project is a Linux Foundation project providing a cloud-native ident
 - **Access:** 3rd-Party
 
 ## Tags:
- - Identity, Access Management, OAuth, Linux Foundation
+ - Defunct Brand, Healthcare, Johnson & Johnson, Pharmaceutical
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
-### Janssen Project API
-Programmatic access to Janssen identity management APIs, OAuth/OIDC authorization server, and policy decision tools.
-
-**Human URL:** [https://docs.jans.io/](https://docs.jans.io/)
-
-#### Tags:
- - Identity, Access Management, OAuth, Linux Foundation
-
-#### Properties
-- [Documentation](https://docs.jans.io/)
+No APIs are maintained for Janssen. The Janssen brand was retired in 2024 and the pharmaceutical operations are now part of Johnson & Johnson Innovative Medicine.
 
 ## Common Properties
-- [Documentation](https://docs.jans.io/)
-- [GitHub Repository](https://github.com/JanssenProject)
+- [J&J Innovative Medicine](https://www.jnj.com/innovative-medicine)
+- [Janssen Pharmaceuticals Wikipedia](https://en.wikipedia.org/wiki/Janssen_Pharmaceuticals)
 
 ## Maintainers
 **FN:** Kin Lane
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
