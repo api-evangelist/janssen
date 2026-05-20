@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/janssen-pharmaceutical-companies-of-johnson-and-johnson
   - type: Website
     name: J&J Innovative Medicine
     description: Successor brand to Janssen Pharmaceuticals under Johnson & Johnson.
