@@ -52,6 +52,11 @@ url: >-
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/johnson-and-johnson/
+    name: Johnson & Johnson
+    x-relationship: acquired
+    x-evidence: "Janssen Pharmaceuticals was a Belgian pharmaceutical company founded in 1953 by Paul Janssen and acquired by Johnson & Johnson in 1961."
   - type: DomainSecurity
     url: security/janssen-domain-security.yml
   - type: LinkedIn
